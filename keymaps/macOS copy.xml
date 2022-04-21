@@ -1,0 +1,98 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="ChangesView.GroupBy.Module" />
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="EditorMatchBrace" />
+  <action id="FindPrevious" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+    <mouse-shortcut keystroke="shift meta button1" />
+  </action>
+  <action id="MakeGradleModule">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="shift meta g" />
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="TodoViewGroupByShowModules" />
+  <action id="UnselectPreviousOccurrence" />
+  <action id="UsageGrouping.Module" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+  <action id="runShellFileAction" />
+</keymap>
